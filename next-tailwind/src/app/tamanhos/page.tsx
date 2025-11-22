@@ -13,7 +13,7 @@ export default function AplicacaoLargura(){
            
         </div>
 
-        <div className="bg-[#5a133f] size-40 text-center"> Tamanho </div>
+        <div className="bg-[#5a133f] size-40 text-center h-7" > Tamanho </div>
     </div>
         
     )
