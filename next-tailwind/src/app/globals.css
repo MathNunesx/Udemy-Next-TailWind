@@ -27,7 +27,7 @@ body {
 
 .caixa {
   @apply px-4 py-2 rounded-md;
-  @apply bg-green-900 text-white;
+  @apply bg-[#2e2d5f91] text-white;
 }
 /* 
 @layer components {
